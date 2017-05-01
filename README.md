@@ -15,3 +15,8 @@ Information about current popular front-end tools, languages and frameworks
 [https://javascript30.com/](https://javascript30.com/)
 
 30 Vanilla Javascript tutorials taught by Wes Bos
+
+## Awesome Screenshot
+[http://www.awesomescreenshot.com/](http://www.awesomescreenshot.com/)
+
+A good screenshot plugin for Chrome, able to grab specific sections and entire page in browser
