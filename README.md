@@ -20,3 +20,8 @@ Information about current popular front-end tools, languages and frameworks
 [http://www.awesomescreenshot.com/](http://www.awesomescreenshot.com/)
 
 A good screenshot plugin for Chrome, able to grab specific sections and entire page in browser
+
+## Emmet
+[http://emmet.io/](http://emmet.io/)
+
+Emmet is a shortcode library for HTML & CSS. Extremely useful and something I use everyday.
