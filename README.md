@@ -25,3 +25,8 @@ A good screenshot plugin for Chrome, able to grab specific sections and entire p
 [http://emmet.io/](http://emmet.io/)
 
 Emmet is a shortcode library for HTML & CSS. Extremely useful and something I use everyday.
+
+## What to Learn in 2017
+[http://tutorialzine.com/2016/12/the-languages-frameworks-tools-you-should-learn-in-2017/](tutorialzine: The Languages, Frameworks and Tools You Should Learn in 2017)
+
+A great article on what Languages, Frameworks and Tools that are up and coming in 2017.
