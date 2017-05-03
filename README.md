@@ -27,11 +27,11 @@ A good screenshot plugin for Chrome, able to grab specific sections and entire p
 Emmet is a shortcode library for HTML & CSS. Extremely useful and something I use everyday.
 
 ## What to Learn in 2017
-[http://tutorialzine.com/2016/12/the-languages-frameworks-tools-you-should-learn-in-2017/](The Languages, Frameworks and Tools You Should Learn in 2017)
+[http://tutorialzine.com/2016/12/the-languages-frameworks-tools-you-should-learn-in-2017/](What to Learn in 2017)
 
 A great article on what Languages, Frameworks and Tools that are up and coming in 2017.
 
 ## Free Tools for Front-End Development
-[https://medium.com/envato/our-top-10-free-tools-for-frontend-web-development-15d8a6052652#.a0son016e](Top 10 free tools for frontend web development)
+[https://medium.com/envato/our-top-10-free-tools-for-frontend-web-development-15d8a6052652#.a0son016e](Free Tools)
 
 I always try to see what other tools developers and designers use. There is always something better on the horizon, plus if its free its even better.
