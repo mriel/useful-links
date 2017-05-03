@@ -30,3 +30,8 @@ Emmet is a shortcode library for HTML & CSS. Extremely useful and something I us
 [http://tutorialzine.com/2016/12/the-languages-frameworks-tools-you-should-learn-in-2017/](tutorialzine: The Languages, Frameworks and Tools You Should Learn in 2017)
 
 A great article on what Languages, Frameworks and Tools that are up and coming in 2017.
+
+## Free Tools for Front-End Development
+[https://medium.com/envato/our-top-10-free-tools-for-frontend-web-development-15d8a6052652#.a0son016e](Our top 10 free tools for frontend web development – Envato)
+
+I always try to see what other tools developers and designers use. There is always something better on the horizon, plus if its free its even better.
