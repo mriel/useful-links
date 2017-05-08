@@ -12,7 +12,7 @@ Open, friendly and conversational community for software developers.
 Information about current popular front-end tools, languages and frameworks.
 
 ## Javascript 30
-[https://javascript30.com/](https://javascript30.com/)
+[https://javascript30.com/](Javascript 30 Tutorials by Wes Bos)
 
 30 Vanilla Javascript tutorials taught by Wes Bos.
 
@@ -22,7 +22,7 @@ Information about current popular front-end tools, languages and frameworks.
 A good screenshot plugin for Chrome, able to grab specific sections and entire page in browser.
 
 ## Emmet
-[http://emmet.io/](http://emmet.io/)
+[http://emmet.io/](Emmet HTML shortcode)
 
 Emmet is a shortcode library for HTML & CSS. Extremely useful and something I use everyday.
 
