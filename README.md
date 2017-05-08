@@ -37,7 +37,7 @@ A great article on what Languages, Frameworks and Tools that are up and coming i
 I always try to see what other tools developers and designers use. There is always something better on the horizon, plus if its free its even better.
 
 ## Google Test Site Mobile Test
-[https://testmysite.withgoogle.com](Mobile Website Speed Testing Tool)
+[https://testmysite.withgoogle.com/](Mobile Website Speed Testing Tool)
 
 A google made tool to test mobile optimization. 
 
