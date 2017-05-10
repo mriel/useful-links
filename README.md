@@ -11,8 +11,7 @@ Open, friendly and conversational community for software developers.
 
 Information about current popular front-end tools, languages and frameworks.
 
-## Javascript 30
-[https://javascript30.com/](Javascript 30 Tutorials by Wes Bos)
+## [Javascript30]
 
 30 Vanilla Javascript tutorials taught by Wes Bos.
 
@@ -21,8 +20,7 @@ Information about current popular front-end tools, languages and frameworks.
 
 A good screenshot plugin for Chrome, able to grab specific sections and entire page in browser.
 
-## Emmet
-[http://emmet.io/](Emmet HTML shortcode)
+## [Emmet.io]
 
 Emmet is a shortcode library for HTML & CSS. Extremely useful and something I use everyday.
 
@@ -41,6 +39,13 @@ I always try to see what other tools developers and designers use. There is alwa
 
 A google made tool to test mobile optimization. 
 
+## [CSS Grid Garden]
+
+A browser game to learn CSS Grid.
+
+[Javascript30]: https://javascript30.com/
+[Emmet.io]: http://emmet.io/
+[CSS Grid Garden]: http://cssgridgarden.com/
 [Google Mobile Test]: https://testmysite.withgoogle.com/
 [Envato: Top Free Tools]: https://medium.com/envato/our-top-10-free-tools-for-frontend-web-development-15d8a6052652/
 [Tutorialzine: Languages, Frameworks and Tools to Learn in 2017]: http://tutorialzine.com/2016/12/the-languages-frameworks-tools-you-should-learn-in-2017/
