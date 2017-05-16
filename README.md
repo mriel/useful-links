@@ -1,13 +1,11 @@
 # Designer & Developer useful links
 A list of useful design/developer links and articles
 
-## Hashnode
-[https://hashnode.com/](https://hashnode.com/)
+## [hashnode]
 
 Open, friendly and conversational community for software developers.
 
-## State of JS
-[http://stateofjs.com](http://stateofjs.com)
+## [State of JS]
 
 Information about current popular front-end tools, languages and frameworks.
 
@@ -15,8 +13,7 @@ Information about current popular front-end tools, languages and frameworks.
 
 30 Vanilla Javascript tutorials taught by Wes Bos.
 
-## Awesome Screenshot
-[http://www.awesomescreenshot.com/](http://www.awesomescreenshot.com/)
+## [Awesome Screenshot]
 
 A good screenshot plugin for Chrome, able to grab specific sections and entire page in browser.
 
@@ -24,18 +21,15 @@ A good screenshot plugin for Chrome, able to grab specific sections and entire p
 
 Emmet is a shortcode library for HTML & CSS. Extremely useful and something I use everyday.
 
-## What to Learn in 2017
-[Tutorialzine: Languages, Frameworks and Tools to Learn in 2017]
+## [Tutorialzine: Languages, Frameworks and Tools to Learn in 2017]
 
 A great article on what Languages, Frameworks and Tools that are up and coming in 2017.
 
-## Free Tools for Front-End Development
-[Envato: Top Free Tools]
+## [Envato: Top Free Tools]
 
 I always try to see what other tools developers and designers use. There is always something better on the horizon, plus if its free its even better.
 
-## Google Test Site Mobile Test
-[Google Mobile Test]
+## [Google Mobile Test]
 
 A google made tool to test mobile optimization. 
 
@@ -43,6 +37,14 @@ A google made tool to test mobile optimization.
 
 A browser game to learn CSS Grid.
 
+## [CodePen Spark]
+
+Create a full project/site on codepen's in browser tools. Try it on a project for free. 
+
+[CodePen Spark]: https://codepen.io/spark/
+[Awesome Screenshot]: http://www.awesomescreenshot.com/
+[State of JS]: http://stateofjs.com
+[hashnode]: https://hashnode.com/
 [Javascript30]: https://javascript30.com/
 [Emmet.io]: http://emmet.io/
 [CSS Grid Garden]: http://cssgridgarden.com/
