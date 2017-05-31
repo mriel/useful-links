@@ -31,7 +31,7 @@ I always try to see what other tools developers and designers use. There is alwa
 
 ## [Google Mobile Test]
 
-A google made tool to test mobile optimization. 
+A google made tool to test mobile optimization.
 
 ## [CSS Grid Garden]
 
@@ -39,7 +39,7 @@ A browser game to learn CSS Grid.
 
 ## [CodePen Spark]
 
-Create a full project/site on codepen's in browser tools. Try it on a project for free. 
+Create a full project/site on codepen's in browser tools. Try it on a project for free.
 
 ## [BEM: Block Element Modifier]
 
@@ -49,6 +49,11 @@ A CSS Methodology to help you organize and maintain your stylesheet in a meaning
 
 An open source CSS framework based on modern methodologies and techniques; BEM, OOCSS, and SASS.
 
+## [Grid by Example]
+
+Learn CSS Grid from Rachel Andrew, a well known web developer and advocate for CSS Grid.
+
+[Grid by Example]: https://gridbyexample.com/
 [Next.js]: https://learnnextjs.com/
 [iotaCSS]: https://www.iotacss.com/
 [BEM: Block Element Modifier]: http://getbem.com/
