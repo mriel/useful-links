@@ -49,6 +49,7 @@ A CSS Methodology to help you organize and maintain your stylesheet in a meaning
 
 An open source CSS framework based on modern methodologies and techniques; BEM, OOCSS, and SASS.
 
+[Next.js]: https://learnnextjs.com/
 [iotaCSS]: https://www.iotacss.com/
 [BEM: Block Element Modifier]: http://getbem.com/
 [CodePen Spark]: https://codepen.io/spark/
