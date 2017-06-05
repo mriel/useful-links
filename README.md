@@ -53,6 +53,11 @@ An open source CSS framework based on modern methodologies and techniques; BEM, 
 
 Learn CSS Grid from Rachel Andrew, a well known web developer and advocate for CSS Grid.
 
+## [Fontjoy]
+
+Easy font pairing. Generate font combinations with deep learning. 
+
+[Fontjoy]: http://fontjoy.com
 [Grid by Example]: https://gridbyexample.com/
 [Next.js]: https://learnnextjs.com/
 [iotaCSS]: https://www.iotacss.com/
