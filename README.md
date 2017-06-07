@@ -57,6 +57,11 @@ Learn CSS Grid from Rachel Andrew, a well known web developer and advocate for C
 
 Easy font pairing. Generate font combinations with deep learning. 
 
+## [Learn CSS Layout]
+
+A great site to learn about the basics of CSS Layout.
+
+[Learn CSS Layout]: http://learnlayout.com
 [Fontjoy]: http://fontjoy.com
 [Grid by Example]: https://gridbyexample.com/
 [Next.js]: https://learnnextjs.com/
