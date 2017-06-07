@@ -61,6 +61,16 @@ Easy font pairing. Generate font combinations with deep learning.
 
 A great site to learn about the basics of CSS Layout.
 
+## [Style Guides]
+
+A site with style guides for websites from idividuals and companies.
+
+## [Learn HTML & CSS]
+
+A great site from Shay Howe on learning the basics of HTML & CSS.
+
+[Learn HTML & CSS]: http://learn.shayhowe.com/html-css/
+[Style Guides]: http://styleguides.io
 [Learn CSS Layout]: http://learnlayout.com
 [Fontjoy]: http://fontjoy.com
 [Grid by Example]: https://gridbyexample.com/
