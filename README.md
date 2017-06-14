@@ -69,6 +69,11 @@ A site with style guides for websites from idividuals and companies.
 
 A great site from Shay Howe on learning the basics of HTML & CSS.
 
+## [Flexbox Froggy]
+
+Before Grid layout there was Flexbox! From the makers of Grid Garden. Learn CSS Flexbox and play a game at the same time!
+
+[Flexbox Froggy]: http://flexboxfroggy.com/
 [Learn HTML & CSS]: http://learn.shayhowe.com/html-css/
 [Style Guides]: http://styleguides.io
 [Learn CSS Layout]: http://learnlayout.com
