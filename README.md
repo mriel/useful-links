@@ -73,7 +73,7 @@ A great site from Shay Howe on learning the basics of HTML & CSS.
 
 Before Grid layout there was Flexbox! From the makers of Grid Garden. Learn CSS Flexbox and play a game at the same time!
 
-## [SlomoJS]
+## [SlowmoJS]
 
 A great site to learn how Javascript works. It will go through how Javascript will execute and step through the code line by line.
 
