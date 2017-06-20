@@ -77,6 +77,11 @@ Before Grid layout there was Flexbox! From the makers of Grid Garden. Learn CSS 
 
 A great site to learn how Javascript works. It will go through how Javascript will execute and step through the code line by line.
 
+## [Spellbook of Modern Web Dev]
+
+An exhausted list of links for modern web development.
+
+[Spellbook of Modern Web Dev]: https://github.com/dexteryy/spellbook-of-modern-webdev
 [SlowmoJS]: http://toolness.github.io/slowmo-js/
 [Flexbox Froggy]: http://flexboxfroggy.com/
 [Learn HTML & CSS]: http://learn.shayhowe.com/html-css/
