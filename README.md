@@ -96,6 +96,10 @@ CSS-Tricks complete guide to CSS Grid. Another good resource for learning CSS Gr
 ## [JAM Stack]
 Javascript API Markup. The JAM Stack is a new development stack for the modern web.
 
+## [API Directory]
+A comprehensive searchable list of APIs to use for your next big project.
+
+[API Directory]: https://www.programmableweb.com/category/all/apis
 [JAM Stack]: https://jamstack.org/
 [Complete Guide to Grid]:https://css-tricks.com/snippets/css/complete-guide-grid/
 [Mozilla CSS Grid]: https://www.mozilla.org/en-US/developer/css-grid/
