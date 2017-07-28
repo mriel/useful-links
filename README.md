@@ -99,7 +99,7 @@ Javascript API Markup. The JAM Stack is a new development stack for the modern w
 ## [API Directory]
 A comprehensive searchable list of APIs to use for your next big project.
 
-##[Gutenberg]
+## [Gutenberg]
 A starter kit for web typography. A great project to implement better typography to your website.
 
 [Gutenberg]: https://matejlatin.github.io/Gutenberg/
