@@ -102,6 +102,10 @@ A comprehensive searchable list of APIs to use for your next big project.
 ## [Gutenberg]
 A starter kit for web typography. A great project to implement better typography to your website.
 
+## [Webmaker]
+A Chrome extension web playground. An offline version of codepen only available for the Chrome browser.
+
+[Webmaker]: https://webmakerapp.com
 [Gutenberg]: https://matejlatin.github.io/Gutenberg/
 [API Directory]: https://www.programmableweb.com/category/all/apis
 [JAM Stack]: https://jamstack.org/
