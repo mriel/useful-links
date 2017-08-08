@@ -34,7 +34,6 @@ I always try to see what other tools developers and designers use. There is alwa
 A google made tool to test mobile optimization.
 
 ## [CSS Grid Garden]
-
 A browser game to learn CSS Grid.
 
 ## [CodePen Spark]
@@ -105,6 +104,10 @@ A starter kit for web typography. A great project to implement better typography
 ## [Webmaker]
 A Chrome extension web playground. An offline version of codepen only available for the Chrome browser.
 
+## [Vim Cheat Sheet]
+A single page with a lot of useful commands for Vim. 
+
+[Vim Cheat Sheet]: https://vim.rtorr.com
 [Webmaker]: https://webmakerapp.com
 [Gutenberg]: https://matejlatin.github.io/Gutenberg/
 [API Directory]: https://www.programmableweb.com/category/all/apis
