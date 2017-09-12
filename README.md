@@ -105,11 +105,15 @@ A starter kit for web typography. A great project to implement better typography
 A Chrome extension web playground. An offline version of codepen only available for the Chrome browser.
 
 ## [Vim Cheat Sheet]
-A single page with a lot of useful commands for Vim. 
+A single page with a lot of useful commands for Vim.
 
 ## [StackBlitz]
-A quick start web tool to easily get up and running on a React, Angular or Ionic project. 
+A quick start web tool to easily get up and running on a React, Angular or Ionic project.
 
+## [XRespond]
+An easy browser based tool to test responsive websites.
+
+[XRespond]: http://app.xrespond.com/
 [StackBlitz]: https://stackblitz.com
 [Vim Cheat Sheet]: https://vim.rtorr.com
 [Webmaker]: https://webmakerapp.com
